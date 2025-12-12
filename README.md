@@ -19,7 +19,7 @@ Phase 2 will introduce optional domain-specific intelligence (e.g., retail, fina
 
 ---
 
-## 🚀 Why We Are Building This
+## Why We Are Building This
 
 Most people receive CSV files without knowing where to start:
 - What are the important columns?
@@ -77,4 +77,5 @@ This README will grow as each component is implemented.
 - [@akarshan-jaiswal](https://github.com/Akarshan-Jaiswal)
 - [@jagatheesh-pugazhenthi](https://github.com/Jaga-droid)
 - Lahja
+
 
